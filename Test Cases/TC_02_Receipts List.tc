@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_02_Receipts List</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>083dcc9d-fa13-412e-b047-361d2b578c2e</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>c302f1f3-de3f-4fb3-96c1-ac311895b417</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Test</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>c302f1f3-de3f-4fb3-96c1-ac311895b417</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Username</value>
+      <variableId>d6883ffb-97a0-48a4-8107-a8b79cd636b7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d6883ffb-97a0-48a4-8107-a8b79cd636b7</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+</TestCaseEntity>

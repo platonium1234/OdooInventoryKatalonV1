@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_01_Odoo Application Login Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7f292923-e020-4f97-b70c-321c8f22b8d9</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>93c8699d-ad90-4ed4-a658-3a76b2c87e15</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Test</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>93c8699d-ad90-4ed4-a658-3a76b2c87e15</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Username</value>
+      <variableId>7640f0d0-5e9c-42ad-98fa-e61eeccf5aeb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7640f0d0-5e9c-42ad-98fa-e61eeccf5aeb</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+</TestCaseEntity>

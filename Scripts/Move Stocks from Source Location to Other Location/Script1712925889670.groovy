@@ -17,3 +17,51 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://freelance25.odoo.com/web/login?redirect=%2Fodoo%3F')
+
+WebUI.setText(findTestObject('Object Repository/Page_Odoo/input_Email_login'), 'boybawang1900@gmail.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Odoo/input_Password_password'), 'BWmL3ZBMbKX7ZHcpGR4b/Q==')
+
+WebUI.click(findTestObject('Object Repository/Page_Odoo/button_Log in'))
+
+WebUI.click(findTestObject('Object Repository/Page_/img_Dashboards_o_app_icon rounded-3'))
+
+WebUI.click(findTestObject('Object Repository/Page_Inventory Overview/span_Operations'))
+
+WebUI.click(findTestObject('Object Repository/Page_Inventory Overview/a_Internal'))
+
+WebUI.click(findTestObject('Object Repository/Page_Internal Transfers/button_New'))
+
+WebUI.click(findTestObject('Object Repository/Page_/input_Contact_partner_id_0'))
+
+WebUI.click(findTestObject('Object Repository/Page_/a_Alfredo Natividad'))
+
+WebUI.setText(findTestObject('Object Repository/Page_/input_Destination Location_location_dest_id_0'), 'WH')
+
+WebUI.click(findTestObject('Object Repository/Page_/a_WH2Backroom'))
+
+WebUI.setText(findTestObject('Object Repository/Page_/input_Source Location_location_id_0'), 'WH2')
+
+WebUI.click(findTestObject('Object Repository/Page_/a_WH2Stock'))
+
+WebUI.click(findTestObject('Object Repository/Page_/a_Add a line'))
+
+WebUI.click(findTestObject('Object Repository/Page_/a_Add a line'))
+
+WebUI.click(findTestObject('Object Repository/Page_/input_Demand_o-autocomplete--input o_input'))
+
+WebUI.click(findTestObject('Object Repository/Page_/a_8K Monitor'))
+
+WebUI.setText(findTestObject('Object Repository/Page_/input_Demand_o-autocomplete--input o_input'), '5')
+
+WebUI.click(findTestObject('Object Repository/Page_/td_'))
+
+WebUI.click(findTestObject('Object Repository/Page_/span_Mark as Todo'))
+
+WebUI.click(findTestObject('Object Repository/Page_WH1INT00007/span_Validate'))
+
+WebUI.closeBrowser()
+

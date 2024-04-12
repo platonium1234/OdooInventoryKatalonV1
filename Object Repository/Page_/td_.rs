@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_</name>
+   <tag></tag>
+   <elementGuidId>bf6ccb74-6262-49ee-9b6e-03ee6cc9c677</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(3) > td</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Demand'])[1]/following::td[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>tbody >> internal:role=cell[name=&quot;​&quot;s] >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>4e011a67-b237-4cc0-b95c-440f047e91ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>ae1e9f3e-3a24-463f-82fd-3503dd359dce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>​</value>
+      <webElementGuid>05ca00b1-5899-45d8-b8c5-356dfb2cddae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client&quot;]/div[@class=&quot;o_action_manager&quot;]/div[@class=&quot;o_xxl_form_view h-100 o_form_view o_view_controller o_action&quot;]/div[@class=&quot;o_form_view_container&quot;]/div[@class=&quot;o_content&quot;]/div[@class=&quot;o_form_renderer o_form_editable d-flex flex-nowrap h-100 o_form_dirty&quot;]/div[@class=&quot;o_form_sheet_bg&quot;]/div[@class=&quot;o_form_sheet position-relative&quot;]/div[@class=&quot;o_notebook d-flex w-100 horizontal flex-column&quot;]/div[@class=&quot;o_notebook_content tab-content&quot;]/div[@class=&quot;tab-pane active fade show&quot;]/div[@class=&quot;o_field_widget o_field_stock_move_one2many o_field_one2many&quot;]/div[@class=&quot;o_list_view o_field_x2many o_field_x2many_list&quot;]/div[@class=&quot;o_list_renderer o_renderer table-responsive&quot;]/table[@class=&quot;o_list_table table table-sm table-hover position-relative mb-0 o_list_table_ungrouped table-striped&quot;]/tbody[@class=&quot;ui-sortable&quot;]/tr[3]/td[1]</value>
+      <webElementGuid>2ce96744-4c16-48a7-8574-2b6c870c15b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demand'])[1]/following::td[6]</value>
+      <webElementGuid>a158708f-0c93-410c-92f3-1c5611f22090</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product'])[1]/following::td[6]</value>
+      <webElementGuid>0e80d7b8-756a-40be-8fb1-88b50ff478c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/preceding::td[1]</value>
+      <webElementGuid>3097dcd7-0f3b-4b51-9746-b7dda19859a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send message'])[1]/preceding::td[6]</value>
+      <webElementGuid>f4e73e11-5a30-4ad9-af42-3d89065e456f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='​']/parent::*</value>
+      <webElementGuid>5568a20d-acc4-4aab-bfc5-3101af1394d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td</value>
+      <webElementGuid>216a11de-8005-4d34-9bf6-be0f80737606</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '​' or . = '​')]</value>
+      <webElementGuid>960230a4-8ab3-4048-a66a-4518dd903c2e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_WH2Backroom</name>
+   <tag></tag>
+   <elementGuidId>9aa7121c-d9b5-4691-968d-ae8b2d5238de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.dropdown-item.ui-menu-item-wrapper.text-truncate.ui-state-active</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Destination Location'])[1]/following::a[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;WH2/Backroom&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f2ff72e9-d4bf-40e6-9931-087497289f17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>a187f576-a60e-43d1-951b-e3199fc12010</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item ui-menu-item-wrapper text-truncate ui-state-active</value>
+      <webElementGuid>d46d498a-8c8c-4797-ae95-6fd6e1a4d7ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>WH2/Backroom</value>
+      <webElementGuid>73bc3e70-5d3e-4690-af77-ebaabeb17167</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client&quot;]/div[@class=&quot;o_action_manager&quot;]/div[@class=&quot;o_xxl_form_view h-100 o_form_view o_view_controller o_action&quot;]/div[@class=&quot;o_form_view_container&quot;]/div[@class=&quot;o_content&quot;]/div[@class=&quot;o_form_renderer o_form_editable d-flex flex-nowrap h-100 o_form_dirty&quot;]/div[@class=&quot;o_form_sheet_bg&quot;]/div[@class=&quot;o_form_sheet position-relative&quot;]/div[@class=&quot;o_group row align-items-start&quot;]/div[@class=&quot;o_inner_group grid col-lg-6&quot;]/div[@class=&quot;o_wrap_field d-flex d-sm-contents flex-column mb-3 mb-sm-0&quot;]/div[@class=&quot;o_cell o_wrap_input flex-grow-1 flex-sm-grow-0 text-break&quot;]/div[@class=&quot;o_field_widget o_required_modifier o_field_many2one&quot;]/div[@class=&quot;o_field_many2one_selection&quot;]/div[@class=&quot;o_input_dropdown&quot;]/div[@class=&quot;o-autocomplete dropdown&quot;]/ul[@class=&quot;o-autocomplete--dropdown-menu ui-widget show dropdown-menu ui-autocomplete&quot;]/li[@class=&quot;o-autocomplete--dropdown-item ui-menu-item d-block&quot;]/a[@class=&quot;dropdown-item ui-menu-item-wrapper text-truncate ui-state-active&quot;]</value>
+      <webElementGuid>2412c1f1-161a-4b24-98be-d256a0339b9c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Destination Location'])[1]/following::a[6]</value>
+      <webElementGuid>3efc7650-044a-49d9-bb8b-fd2ca30b79d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Source Location'])[1]/following::a[6]</value>
+      <webElementGuid>2e48c87a-5adf-4d2f-aac0-c084e3b289c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='?'])[1]/preceding::a[4]</value>
+      <webElementGuid>2b600dec-29e6-4cd0-95af-3f68869cc63d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='WH2/Backroom']/parent::*</value>
+      <webElementGuid>7e7d7d44-f53d-45f3-9fd8-65391f768107</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[6]</value>
+      <webElementGuid>a5e98574-b0ad-41fc-ba9f-d204f24ad82a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a</value>
+      <webElementGuid>44470663-a8ac-45d4-ab37-132269c3672f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'WH2/Backroom' or . = 'WH2/Backroom')]</value>
+      <webElementGuid>8c4907f3-4e8f-492a-9f7a-22837c56c827</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

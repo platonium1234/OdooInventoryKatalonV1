@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Operations</name>
+   <tag></tag>
+   <elementGuidId>563ca331-5bf5-41e9-864b-df4324eb5927</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.fw-normal.o-dropdown.dropdown-toggle.dropdown > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Operations&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3704aee9-13e9-4170-8682-1fbfc6ad037f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-section</name>
+      <type>Main</type>
+      <value>121</value>
+      <webElementGuid>b5fede59-b765-4ca8-a4b8-4d60ff8180c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Operations</value>
+      <webElementGuid>a387ab5b-30b3-4ea7-a1de-b5cfdc75383a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client&quot;]/header[@class=&quot;o_navbar&quot;]/nav[@class=&quot;o_main_navbar&quot;]/div[@class=&quot;o_menu_sections d-none d-md-flex flex-grow-1 flex-shrink-1 w-0&quot;]/button[@class=&quot;fw-normal o-dropdown dropdown-toggle dropdown&quot;]/span[1]</value>
+      <webElementGuid>7f05c3ef-ef53-4fce-8066-96cfaf015227</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[1]/following::span[1]</value>
+      <webElementGuid>4a7e7742-bfc0-4f18-8a10-618c17cb459c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inventory'])[1]/following::span[1]</value>
+      <webElementGuid>8ce9baa6-d796-47eb-8afa-e294b7e978a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Products'])[1]/preceding::span[1]</value>
+      <webElementGuid>0c618343-782a-4967-a382-a0d167448c16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reporting'])[1]/preceding::span[2]</value>
+      <webElementGuid>6f2ce680-4ff1-4d1b-879c-9f043d2daeda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Operations']/parent::*</value>
+      <webElementGuid>4496238c-0064-4b06-9c34-eedd20adb0b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>e7febdb5-7f61-4307-ad96-5b81636ae0f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Operations' or . = 'Operations')]</value>
+      <webElementGuid>7d91e801-055b-40f2-ac80-0f6a0b2e7507</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

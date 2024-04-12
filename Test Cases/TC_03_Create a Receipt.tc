@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_03_Create a New Receipt</name>
+   <name>TC_03_Create a Receipt</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>0b2ebd47-4027-4b89-8de0-fded3bb4e221</testCaseGuid>
+   <testCaseGuid>a8680f2e-719c-4d48-99ff-d8db9960153e</testCaseGuid>
 </TestCaseEntity>

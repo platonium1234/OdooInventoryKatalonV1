@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Receive From_partner_id_0</name>
    <tag></tag>
-   <elementGuidId>d822cd14-819f-4f4c-b30c-0eddc18c0c8f</elementGuidId>
+   <elementGuidId>3d3f219c-c6db-4018-a950-9dd9a779f4be</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@id='partner_id_0']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>#partner_id_0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='partner_id_0']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0c8affc0-114f-44f1-825d-ef5248d6dab1</webElementGuid>
+      <webElementGuid>0ba00e5f-eb6f-48ba-a753-2ac02dcb512c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>dd5e2656-d323-4a4b-b2fa-639a945f7678</webElementGuid>
+      <webElementGuid>2128b034-5f33-46da-b120-8bb16ea4a2ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>o-autocomplete--input o_input</value>
-      <webElementGuid>a7d9509a-e9e0-49d1-87e8-627a4b7d9f71</webElementGuid>
+      <webElementGuid>c6f929fa-24ec-43d2-b66b-271b9e932bba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>d13a8991-ec3d-415e-a985-d4e13f10e4e5</webElementGuid>
+      <webElementGuid>c35bf989-9ea2-4b42-80ef-63b3ca5220ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>id</name>
       <type>Main</type>
       <value>partner_id_0</value>
-      <webElementGuid>74e791b2-9322-4405-8f75-f90ec9304f2e</webElementGuid>
+      <webElementGuid>cd4c8011-a10c-4059-b48a-1d3f1e58fe2d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;partner_id_0&quot;)</value>
-      <webElementGuid>21bf2d80-587f-42a0-92f3-0df8385311e9</webElementGuid>
+      <webElementGuid>bbc393bc-7848-4df9-98da-8927ac4549aa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='partner_id_0']</value>
-      <webElementGuid>99ad0222-802c-4db9-a539-2b9ec24f7453</webElementGuid>
+      <webElementGuid>95488453-309c-4c20-aa68-eb41b36656b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>12b5b739-3a08-42e7-a337-70bc1181464f</webElementGuid>
+      <webElementGuid>9f378caa-b389-46d8-9a97-caced6a0ded7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'partner_id_0']</value>
-      <webElementGuid>638037c8-8a3b-461e-b66d-bd01e09a7356</webElementGuid>
+      <webElementGuid>43ab2866-4803-4c93-a659-0a9cb1a4c83d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

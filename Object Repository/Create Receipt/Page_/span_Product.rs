@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Product</name>
+   <tag></tag>
+   <elementGuidId>667e87ba-47a7-49b3-be54-14328e98906c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.d-block.min-w-0.text-truncate.flex-grow-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='?'])[2]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Product&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c39b1d3c-c854-4677-b063-fc24d2306ee1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-block min-w-0 text-truncate flex-grow-1</value>
+      <webElementGuid>0e3ca2eb-9c0e-479d-a969-046bc9975e9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Product</value>
+      <webElementGuid>ffafc5df-8344-4c62-b233-6784b1500fb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client&quot;]/div[@class=&quot;o_action_manager&quot;]/div[@class=&quot;o_form_view o_view_controller o_action&quot;]/div[@class=&quot;o_form_view_container&quot;]/div[@class=&quot;o_content&quot;]/div[@class=&quot;o_form_renderer o_form_editable d-flex flex-column o_form_dirty&quot;]/div[@class=&quot;o_form_sheet_bg&quot;]/div[@class=&quot;o_form_sheet position-relative&quot;]/div[@class=&quot;o_notebook d-flex w-100 horizontal flex-column&quot;]/div[@class=&quot;o_notebook_content tab-content&quot;]/div[@class=&quot;tab-pane active fade show&quot;]/div[@class=&quot;o_field_widget o_field_stock_move_one2many o_field_one2many&quot;]/div[@class=&quot;o_list_view o_field_x2many o_field_x2many_list&quot;]/div[@class=&quot;o_list_renderer o_renderer table-responsive&quot;]/table[@class=&quot;o_list_table table table-sm table-hover position-relative mb-0 o_list_table_ungrouped table-striped&quot;]/thead[1]/tr[1]/th[@class=&quot;align-middle o_column_sortable position-relative cursor-pointer opacity-trigger-hover&quot;]/div[@class=&quot;d-flex&quot;]/span[@class=&quot;d-block min-w-0 text-truncate flex-grow-1&quot;]</value>
+      <webElementGuid>f13aaf04-ca87-4e7b-946f-987d6f043c34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='?'])[2]/following::span[1]</value>
+      <webElementGuid>a50dbd28-e0e6-4def-a184-69f89b4207a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demand'])[1]/preceding::span[2]</value>
+      <webElementGuid>2be55378-ee27-45ee-bc2f-1bd2a11445fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/preceding::span[4]</value>
+      <webElementGuid>8d8f5114-0cf2-4a20-baef-dac9815ff244</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Product']/parent::*</value>
+      <webElementGuid>47f967b3-515a-49ba-b9f1-af40e89d05f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th/div/span</value>
+      <webElementGuid>da99e57a-7141-42be-bc15-35c77800f044</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Product' or . = 'Product')]</value>
+      <webElementGuid>8deba9a7-702d-4611-a0b7-096952912adc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

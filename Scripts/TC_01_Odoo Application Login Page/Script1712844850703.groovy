@@ -23,9 +23,9 @@ WebUI.click(findTestObject('Page_Odoo/input_Email_login'))
 
 WebUI.setText(findTestObject('Page_Odoo/input_Email_login'), Username)
 
-WebUI.setEncryptedText(findTestObject('Page_Odoo/input_password'), 'VwyXJ++R22lR7+7nLV5Mwg==')
+WebUI.setEncryptedText(findTestObject('Page_Odoo/input_Password_password'), 'VwyXJ++R22lR7+7nLV5Mwg==')
 
-WebUI.click(findTestObject('Page_Odoo/btn_Log in'))
+WebUI.click(findTestObject('Page_Odoo/button_Log in'))
 
 WebUI.closeBrowser()
 

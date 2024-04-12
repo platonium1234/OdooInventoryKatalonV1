@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Inventory</name>
+   <tag></tag>
+   <elementGuidId>c07fee90-9b13-4791-a671-f296c21cafc2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.o_menu_brand.d-none.d-md-flex.ms-3.pe-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[1]/preceding::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Home menu&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d8dbeea8-d9d1-457b-93fb-f9ac72390a25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o_menu_brand d-none d-md-flex ms-3 pe-0</value>
+      <webElementGuid>02fd8ba6-f59d-4dac-8960-db346f6cb9db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Inventory</value>
+      <webElementGuid>a5c692bc-c363-4274-9f80-4a8e109966a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client&quot;]/header[@class=&quot;o_navbar&quot;]/nav[@class=&quot;o_main_navbar&quot;]/a[@class=&quot;o_menu_toggle hasImage&quot;]/span[@class=&quot;o_menu_brand d-none d-md-flex ms-3 pe-0&quot;]</value>
+      <webElementGuid>3511c2d9-5e8e-44ae-b138-349564e792d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[1]/preceding::span[1]</value>
+      <webElementGuid>cc2d807b-e607-49b0-b211-b7187a8801f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operations'])[1]/preceding::span[1]</value>
+      <webElementGuid>148586e5-0750-4971-ac96-74b7174257d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Inventory']/parent::*</value>
+      <webElementGuid>824cff85-f144-4b5a-ad29-63ecbb0ba5d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>c8b73a66-cce4-47be-a397-bee3e85d553d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Inventory' or . = 'Inventory')]</value>
+      <webElementGuid>de646010-5475-4038-96ae-c7a8c3afb413</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

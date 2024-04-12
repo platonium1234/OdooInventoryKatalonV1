@@ -23,9 +23,9 @@ WebUI.navigateToUrl('https://freelance25.odoo.com/web/login?redirect=%2Fodoo%3Fc
 
 WebUI.setText(findTestObject('Page_Odoo/input_Email_login'), Username)
 
-WebUI.setEncryptedText(findTestObject('Page_Odoo/input_password'), 'VwyXJ++R22lR7+7nLV5Mwg==')
+WebUI.setEncryptedText(findTestObject('Page_Odoo/input_Password_password'), 'VwyXJ++R22lR7+7nLV5Mwg==')
 
-WebUI.sendKeys(findTestObject('Page_Odoo/input_password'), Keys.chord(Keys.ENTER))
+WebUI.sendKeys(findTestObject('Page_Odoo/input_Password_password'), Keys.chord(Keys.ENTER))
 
 WebUI.click(findTestObject('Object Repository/Receipts List/Page_/img_Dashboards_o_app_icon rounded-3'))
 

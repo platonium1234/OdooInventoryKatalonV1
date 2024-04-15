@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Address_partner_id_0</name>
+   <name>input_WarehouseName</name>
    <tag></tag>
-   <elementGuidId>d647b9fa-9404-494c-93b6-433499585ac1</elementGuidId>
+   <elementGuidId>cac83b61-105a-4993-b704-3aaaddf1cf54</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#partner_id_0</value>
+         <value>#name_0</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='partner_id_0']</value>
+         <value>//input[@id='name_0']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;Address&quot;i</value>
+         <value>internal:attr=[placeholder=&quot;e.g. Central Warehouse&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c714115c-69fc-4f44-848b-04fe7b2590a2</webElementGuid>
+      <webElementGuid>2a767297-2ddc-46b3-a0d0-70faf876c9f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o_input</value>
+      <webElementGuid>19b7f2ac-d051-4350-9f60-c379f648436a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>name_0</value>
+      <webElementGuid>ae553ce6-05aa-43ea-b22d-452b91504ff7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,15 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>4e198096-a228-45a5-8a4c-983411d336d5</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>o-autocomplete--input o_input</value>
-      <webElementGuid>5847f3e8-e473-4a17-b1ad-13a90ace7adc</webElementGuid>
+      <webElementGuid>e0740a07-ad71-49a1-a8d3-541cc091e08c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,46 +61,46 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>b34012b1-7f89-4d26-a5dd-0dabc39eb305</webElementGuid>
+      <webElementGuid>86542660-a93b-482a-9182-cad6c3ee8314</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>placeholder</name>
       <type>Main</type>
-      <value>partner_id_0</value>
-      <webElementGuid>5a9f256b-43d6-44e6-a7c9-f77dbdba50f1</webElementGuid>
+      <value>e.g. Central Warehouse</value>
+      <webElementGuid>4240b77f-ac0b-4f13-a0b4-27311fb6a0e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;partner_id_0&quot;)</value>
-      <webElementGuid>7865bc20-d146-4228-b025-9ee74d805def</webElementGuid>
+      <value>id(&quot;name_0&quot;)</value>
+      <webElementGuid>b7a7d1b9-1af5-4a3f-9764-e1f24913dddb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='partner_id_0']</value>
-      <webElementGuid>c9f22149-3b5b-496c-baa5-57c3cda673cf</webElementGuid>
+      <value>//input[@id='name_0']</value>
+      <webElementGuid>2356bc75-2436-4023-a52a-01da98f25701</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div/div/div/input</value>
-      <webElementGuid>db041c1c-46f0-4846-b24a-49fc9e148836</webElementGuid>
+      <value>//input</value>
+      <webElementGuid>40fd9a51-95dd-4f83-aa6e-71627a6fef33</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'partner_id_0']</value>
-      <webElementGuid>a7e31210-1d85-45d6-9e35-90defd06be8e</webElementGuid>
+      <value>//input[@id = 'name_0' and @type = 'text' and @placeholder = 'e.g. Central Warehouse']</value>
+      <webElementGuid>d0b5dead-8629-4b62-91e0-df89ec438bb4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

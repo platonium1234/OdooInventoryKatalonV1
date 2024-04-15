@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input__code_0</name>
+   <name>input_Address</name>
    <tag></tag>
-   <elementGuidId>e92cbe54-6408-4379-a842-3eaf1fe7dc37</elementGuidId>
+   <elementGuidId>d647b9fa-9404-494c-93b6-433499585ac1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#code_0</value>
+         <value>#partner_id_0</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='code_0']</value>
+         <value>//input[@id='partner_id_0']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;e.g. CW&quot;i]</value>
+         <value>internal:label=&quot;Address&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,23 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6f44b81b-d197-4d1d-9ff8-fa40b5b9aacc</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>o_input</value>
-      <webElementGuid>d530dacb-c467-466e-88ce-ce630599d5a1</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>code_0</value>
-      <webElementGuid>1f0e08dd-3e40-408f-bb2e-799cbc24f869</webElementGuid>
+      <webElementGuid>c714115c-69fc-4f44-848b-04fe7b2590a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +37,15 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>01c28087-511b-4cc9-b3c3-d22fd0c2ac59</webElementGuid>
+      <webElementGuid>4e198096-a228-45a5-8a4c-983411d336d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o-autocomplete--input o_input</value>
+      <webElementGuid>5847f3e8-e473-4a17-b1ad-13a90ace7adc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,54 +53,46 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>06464937-550e-4744-a54c-e852a2e63e74</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>maxlength</name>
-      <type>Main</type>
-      <value>5</value>
-      <webElementGuid>938899e5-bf0d-4fe9-bf25-c22b142981f4</webElementGuid>
+      <webElementGuid>b34012b1-7f89-4d26-a5dd-0dabc39eb305</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>id</name>
       <type>Main</type>
-      <value>e.g. CW</value>
-      <webElementGuid>63b3cdf0-1150-4b1c-8138-8b0a4c28a392</webElementGuid>
+      <value>partner_id_0</value>
+      <webElementGuid>5a9f256b-43d6-44e6-a7c9-f77dbdba50f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;code_0&quot;)</value>
-      <webElementGuid>4962a30e-aea6-4509-902a-7bba4793369b</webElementGuid>
+      <value>id(&quot;partner_id_0&quot;)</value>
+      <webElementGuid>7865bc20-d146-4228-b025-9ee74d805def</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='code_0']</value>
-      <webElementGuid>f710ea3d-5717-41bc-b153-0f71af44904f</webElementGuid>
+      <value>//input[@id='partner_id_0']</value>
+      <webElementGuid>c9f22149-3b5b-496c-baa5-57c3cda673cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/input</value>
-      <webElementGuid>10fca989-1a43-45f0-b060-779e5e56fa99</webElementGuid>
+      <value>//div[2]/div/div/div/div/input</value>
+      <webElementGuid>db041c1c-46f0-4846-b24a-49fc9e148836</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'code_0' and @type = 'text' and @placeholder = 'e.g. CW']</value>
-      <webElementGuid>7b8c2f19-d852-40bd-91ad-1994e2b13354</webElementGuid>
+      <value>//input[@type = 'text' and @id = 'partner_id_0']</value>
+      <webElementGuid>a7e31210-1d85-45d6-9e35-90defd06be8e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

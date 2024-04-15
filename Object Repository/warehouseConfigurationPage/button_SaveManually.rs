@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>i_Freelance - warehouse  12_fa fa-cloud-upl_7e7329</name>
+   <name>button_SaveManually</name>
    <tag></tag>
    <elementGuidId>59ccd540-a9e2-4555-90d9-916709630712</elementGuidId>
    <selectorCollection>

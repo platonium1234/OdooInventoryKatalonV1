@@ -1,3 +1,14 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Freelance - warehouse  12/input__checkbox-comp-10",
+      "brokenLocator": "//input[@id\u003d\u0027checkbox-comp-10\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/div[2]/div/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Freelance - warehouse  12/input__checkbox-comp-10_position.png"
+    }
+  ]
 }

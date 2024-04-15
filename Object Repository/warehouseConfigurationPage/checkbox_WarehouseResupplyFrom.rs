@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input__checkbox-comp-10</name>
+   <name>checkbox_WarehouseResupplyFrom</name>
    <tag></tag>
    <elementGuidId>6720bafb-7f3a-436f-9726-2c2b9505d75c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#checkbox-comp-10</value>
+         <key>XPATH</key>
+         <value>//label[contains(text(),'Main Warehouse')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='checkbox-comp-10']</value>
+         <key>CSS</key>
+         <value>#checkbox-comp-10</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>415b88b3-f882-4458-b371-98969ba97610</webElementGuid>
+      <webElementGuid>e08922d8-b792-4454-8ec5-5165f303decb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>5b88d1b4-50a4-454c-bcdd-31eb1a33be5a</webElementGuid>
+      <webElementGuid>8c82125c-2942-4701-8540-74f75bd06baa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-check-input</value>
-      <webElementGuid>3deca020-5fd4-49e3-97ca-96c0770c3f2d</webElementGuid>
+      <webElementGuid>de153629-1506-4d7a-b9bb-bdfbb8807ba0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>checkbox-comp-10</value>
-      <webElementGuid>c49305f5-96fe-494d-a25f-3600f68f0ca9</webElementGuid>
+      <webElementGuid>c25b2c90-f991-44a4-b50e-ab37493c8b44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;checkbox-comp-10&quot;)</value>
-      <webElementGuid>89aeb063-bb1c-48bd-8183-8558e3aefd97</webElementGuid>
+      <webElementGuid>be062e55-7b16-473c-a087-45f1747e5751</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='checkbox-comp-10']</value>
-      <webElementGuid>4f8c423b-b510-40c7-a34e-eb582f918f7d</webElementGuid>
+      <webElementGuid>689d2fc1-c237-4905-b3f5-93a8e2bfb46b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div/div/div/input</value>
-      <webElementGuid>ea19bbe9-da91-45be-8a44-93e7447c890b</webElementGuid>
+      <webElementGuid>549159a7-1dd2-4f7f-bad9-912988d31b91</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox' and @id = 'checkbox-comp-10']</value>
-      <webElementGuid>b616cf86-521a-4d6c-aa55-7b380cf10b63</webElementGuid>
+      <webElementGuid>3f896503-580e-4f69-896b-4d86c14074bc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

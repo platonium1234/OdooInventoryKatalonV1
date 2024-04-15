@@ -28,27 +28,23 @@ WebUI.click(findTestObject('Object Repository/inventoryPage/a_Warehouses'))
 
 WebUI.click(findTestObject('Object Repository/warehouseListPage/button_New'))
 
-WebUI.click(findTestObject('Object Repository/warehouseConfigurationPage/input_Warehouse_name_0'))
+WebUI.setText(findTestObject('Object Repository/warehouseConfigurationPage/input_WarehouseName'), 'test1')
 
-WebUI.click(findTestObject('Object Repository/warehouseConfigurationPage/div_WarehouseShort NameAddressWarehouse Con_2382fa'))
+WebUI.setText(findTestObject('Object Repository/warehouseConfigurationPage/input_shortName'), 'tst1')
 
-WebUI.setText(findTestObject('Object Repository/warehouseConfigurationPage/input_Warehouse_name_0'), 'Wqwerr')
+WebUI.setText(findTestObject('Object Repository/warehouseConfigurationPage/input_Address'), '345 rose st')
 
-WebUI.setText(findTestObject('Object Repository/warehouseConfigurationPage/input__code_0'), 'wqr')
-
-WebUI.setText(findTestObject('Object Repository/warehouseConfigurationPage/input_Address_partner_id_0'), 'Freelance')
-
-WebUI.click(findTestObject('Object Repository/warehouseConfigurationPage/input_Address_partner_id_0'))
+WebUI.click(findTestObject('Object Repository/warehouseConfigurationPage/input_Address'))
 
 WebUI.click(findTestObject('Object Repository/warehouseConfigurationPage/a_345 rose st'))
 
-WebUI.click(findTestObject('Object Repository/warehouseConfigurationPage/input__checkbox-comp-10'))
+WebUI.click(findTestObject('warehouseConfigurationPage/checkbox_WarehouseResupplyFrom'))
 
-WebUI.click(findTestObject('Object Repository/warehouseConfigurationPage/i_Freelance - warehouse  12_fa fa-cloud-upl_7e7329'))
+WebUI.click(findTestObject('warehouseConfigurationPage/button_SaveManually'))
 
-WebUI.click(findTestObject('Object Repository/warehouseListPage/a_Warehouses'))
+WebUI.click(findTestObject('warehouseConfigurationPage/a_Warehouses'))
 
-WebUI.click(findTestObject('Object Repository/warehouseListPage/input_Freelance - warehouse  11_checkbox-comp-14'))
+WebUI.click(findTestObject('Page_Warehouses/span_wqStock_o_row_handle oi oi-draggable u_526b87'))
 
 WebUI.closeBrowser()
 

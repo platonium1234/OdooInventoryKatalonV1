@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Login to Odoo Inventory ERP System'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_/img_Dashboards_o_app_icon rounded-3'))
+WebUI.click(findTestObject('Object Repository/menuPage/inventoryOption'))
 
 WebUI.click(findTestObject('Object Repository/inventoryPage/span_Operations'))
 

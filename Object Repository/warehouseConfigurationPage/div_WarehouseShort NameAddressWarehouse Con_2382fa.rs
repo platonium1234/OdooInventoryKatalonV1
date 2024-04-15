@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_WarehouseShort NameAddressWarehouse Con_2382fa</name>
+   <tag></tag>
+   <elementGuidId>dc2d0eee-d3d4-441f-9054-fd522f896806</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.o_form_sheet_bg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Routes'])[1]/following::div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.o_form_sheet_bg</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d0678d94-2b11-43d4-b596-4a04930eaef1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o_form_sheet_bg</value>
+      <webElementGuid>824a68cf-f7e0-4fbd-8f35-e0dc4145fc51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>WarehouseShort Name?AddressWarehouse ConfigurationResupplyResupply From?Main WarehouseCalgary WarehouseWarehouseXXXFreelance - warehouse # 10Freelance - warehouse # 11Toronto WarehouseQuebec Warehouse</value>
+      <webElementGuid>89347d58-ac02-40a7-be77-f4e7c299a136</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client&quot;]/div[@class=&quot;o_action_manager&quot;]/div[@class=&quot;o_xxl_form_view h-100 o_form_view o_view_controller o_action&quot;]/div[@class=&quot;o_form_view_container&quot;]/div[@class=&quot;o_content&quot;]/div[@class=&quot;o_form_renderer o_form_editable d-flex flex-nowrap h-100&quot;]/div[@class=&quot;o_form_sheet_bg&quot;]</value>
+      <webElementGuid>d65a7fab-0bc4-4584-84fc-75fc16f1a727</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Routes'])[1]/following::div[4]</value>
+      <webElementGuid>972c70ab-bed5-4a39-9a61-de20d0a240c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Freelance - warehouse # 12'])[2]/following::div[12]</value>
+      <webElementGuid>61c4d1e9-5edf-4f42-940f-b1bd8d5549bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div</value>
+      <webElementGuid>8d3143fe-e4f9-441b-a2fa-ed214de1a2ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'WarehouseShort Name?AddressWarehouse ConfigurationResupplyResupply From?Main WarehouseCalgary WarehouseWarehouseXXXFreelance - warehouse # 10Freelance - warehouse # 11Toronto WarehouseQuebec Warehouse' or . = 'WarehouseShort Name?AddressWarehouse ConfigurationResupplyResupply From?Main WarehouseCalgary WarehouseWarehouseXXXFreelance - warehouse # 10Freelance - warehouse # 11Toronto WarehouseQuebec Warehouse')]</value>
+      <webElementGuid>64a002ba-77df-46c9-b4d5-ac4fd4b0d5c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

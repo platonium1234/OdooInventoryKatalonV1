@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_New</name>
+   <tag></tag>
+   <elementGuidId>e4017d98-ced3-4b0a-b7e9-f77649c74c12</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.d-none.d-xl-inline-flex.gap-1 > button.btn.btn-primary.o_list_button_add</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='d-xl-none o_control_panel_collapsed_create']//button[contains(.,'New')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;New&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7518ecb2-ef24-4502-b66e-6d39915ddb21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>75d3c4a4-acdc-498b-84b9-432cfe16181e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary o_list_button_add</value>
+      <webElementGuid>78cadb87-17bc-43d9-9b5f-505133caecb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-hotkey</name>
+      <type>Main</type>
+      <value>c</value>
+      <webElementGuid>14a1c050-b785-40d0-9c76-77b61f3fc8af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> New </value>
+      <webElementGuid>8dcb2d6d-a021-42ab-8fb7-5093967ce7b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client&quot;]/div[@class=&quot;o_action_manager&quot;]/div[@class=&quot;o_list_view o_view_controller o_action&quot;]/div[@class=&quot;o_control_panel d-flex flex-column gap-3 gap-lg-1 px-3 pt-2 pb-3&quot;]/div[@class=&quot;o_control_panel_main d-flex flex-wrap flex-lg-nowrap justify-content-between align-items-lg-start gap-3 flex-grow-1&quot;]/div[@class=&quot;o_control_panel_breadcrumbs d-flex align-items-center gap-1 order-0 h-lg-100&quot;]/div[@class=&quot;o_control_panel_main_buttons d-flex gap-1 d-empty-none d-print-none&quot;]/div[@class=&quot;d-none d-xl-inline-flex gap-1&quot;]/button[@class=&quot;btn btn-primary o_list_button_add&quot;]</value>
+      <webElementGuid>b61970b5-84c3-4a6f-a87a-131f09fe023e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>126a92cc-e9ad-4756-8050-b34a2310897d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle Dropdown'])[1]/following::button[1]</value>
+      <webElementGuid>19b09085-5325-4e59-961f-3e64f715df7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[1]/following::button[2]</value>
+      <webElementGuid>8de6c9ca-afda-4d39-bdf7-4599163a34a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warehouses'])[2]/preceding::button[1]</value>
+      <webElementGuid>b06e95ea-59ad-430d-a879-e968d086c35e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[1]/preceding::button[4]</value>
+      <webElementGuid>9803d15e-5837-4c12-8b4d-7d8a1ef32c45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/button</value>
+      <webElementGuid>4038b4c6-184e-4b4c-92af-bf0337ca10a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' New ' or . = ' New ')]</value>
+      <webElementGuid>15ce63d8-e4d9-4364-9860-84d74c7cd28c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

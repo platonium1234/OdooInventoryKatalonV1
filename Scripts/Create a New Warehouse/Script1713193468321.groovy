@@ -28,9 +28,9 @@ WebUI.click(findTestObject('Object Repository/inventoryPage/a_Warehouses'))
 
 WebUI.click(findTestObject('Object Repository/warehouseListPage/button_New'))
 
-WebUI.setText(findTestObject('Object Repository/warehouseConfigurationPage/input_WarehouseName'), a)
+WebUI.setText(findTestObject('Object Repository/warehouseConfigurationPage/input_WarehouseName'), WarehouseName)
 
-WebUI.setText(findTestObject('Object Repository/warehouseConfigurationPage/input_shortName'), 'tst2')
+WebUI.setText(findTestObject('Object Repository/warehouseConfigurationPage/input_shortName'), ShortName)
 
 WebUI.setText(findTestObject('Object Repository/warehouseConfigurationPage/input_Address'), '345 rose st')
 

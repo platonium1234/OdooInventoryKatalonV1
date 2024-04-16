@@ -28,9 +28,9 @@ WebUI.click(findTestObject('Object Repository/inventoryPage/a_Warehouses'))
 
 WebUI.click(findTestObject('Object Repository/warehouseListPage/button_New'))
 
-WebUI.setText(findTestObject('Object Repository/warehouseConfigurationPage/input_WarehouseName'), 'test1')
+WebUI.setText(findTestObject('Object Repository/warehouseConfigurationPage/input_WarehouseName'), a)
 
-WebUI.setText(findTestObject('Object Repository/warehouseConfigurationPage/input_shortName'), 'tst1')
+WebUI.setText(findTestObject('Object Repository/warehouseConfigurationPage/input_shortName'), 'tst2')
 
 WebUI.setText(findTestObject('Object Repository/warehouseConfigurationPage/input_Address'), '345 rose st')
 
@@ -43,8 +43,6 @@ WebUI.click(findTestObject('warehouseConfigurationPage/checkbox_WarehouseResuppl
 WebUI.click(findTestObject('warehouseConfigurationPage/button_SaveManually'))
 
 WebUI.click(findTestObject('warehouseConfigurationPage/a_Warehouses'))
-
-WebUI.click(findTestObject('Page_Warehouses/span_wqStock_o_row_handle oi oi-draggable u_526b87'))
 
 WebUI.closeBrowser()
 

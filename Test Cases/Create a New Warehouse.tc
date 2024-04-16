@@ -5,4 +5,39 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>26826bb2-9d7f-4262-b74d-351e32aae372</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>e633e876-2cae-481f-958a-5029c3a3753b</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Warehouse Names</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>e633e876-2cae-481f-958a-5029c3a3753b</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>WarehouseName</value>
+      <variableId>3ffb2be7-331f-484b-a993-f57daa74f99d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>e633e876-2cae-481f-958a-5029c3a3753b</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>ShortName</value>
+      <variableId>aa286b9f-40d7-4dad-a8b6-72ece3893b61</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3ffb2be7-331f-484b-a993-f57daa74f99d</id>
+      <masked>false</masked>
+      <name>WarehouseName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>aa286b9f-40d7-4dad-a8b6-72ece3893b61</id>
+      <masked>false</masked>
+      <name>ShortName</name>
+   </variable>
 </TestCaseEntity>
